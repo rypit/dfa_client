@@ -1,4 +1,6 @@
 dfa_client
 ==========
 
-A Client for Googles DoubleClick for Advertisers (DFA) API
+A savon-based Client for Googles DoubleClick for Advertisers (DFA) API
+
+https://developers.google.com/doubleclick-advertisers/docs/overview
