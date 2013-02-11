@@ -8,7 +8,7 @@ https://developers.google.com/doubleclick-advertisers/docs/overview
 Installation
 ------------
 
-DFAClient is available through [Rubygems](http://rubygems.org/gems/dfa_Client) and can be installed via:
+DFAClient is available through [Rubygems](http://rubygems.org/gems/dfa_client) and can be installed via:
 
 ```
 $ gem install dfa_client
